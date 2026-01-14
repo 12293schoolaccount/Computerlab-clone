@@ -1,6 +1,6 @@
 #include <vex.h>
 #include "robot_config.h"
-#include "PreAuto.h"
+#include "Preauto.h"
 
 using namespace vex;
 
